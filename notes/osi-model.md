@@ -16,7 +16,7 @@ The OSI (Open Systems Interconnection) model breaks network communication into 7
 | 2 | Data Link | Physical addressing, switching | MAC, Ethernet |
 | 1 | Physical | Raw bit transmission | Cables, radio |
 
-**Mnemonic (top to bottom, Layer 7 → 1):**
+**Mnemonic:**
 > Please Do Not Throw Sausage Pizza Away
 
 ## Why It Matters for Pentesting
