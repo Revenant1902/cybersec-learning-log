@@ -5,7 +5,7 @@
 - **IPv6** — 128-bit, written in hexadecimal (e.g. `2001:0db8::1`), created because IPv4's ~4.3 billion address space ran out. Not fully adopted everywhere yet, but increasingly common — worth being comfortable reading both.
 
 ## CLasses of IP Address
-[ip](images/ip.png)
+![ip](images/ip.jpg)
 
 ## MAC Addresses
 **MAC = Media Access Control.** A hardware address burned into a network interface card (NIC), used for local communication.
