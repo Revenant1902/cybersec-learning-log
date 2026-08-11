@@ -5,8 +5,8 @@ Notes from PEH's subnetting section, using the "magic number" method.
 ## Resources
 - [Seven Second Subnetting](https://www.youtube.com/watch?v=ZxAwQB8TZsM)
 - [Magic Number Subnetting](https://youtu.be/P1ROXMLjL04) 
-- [Website for subnetting] (https://www.ipaddressguide.com/)
-- Subnet Guide: https://drive.google.com/file/d/1ETKH31-E7G-7ntEOlWGZcDZWuukmeHFe/view
+- [Website for subnetting](https://www.ipaddressguide.com/)
+- [Subnet Guide Cheat Sheet](https://drive.google.com/file/d/1ETKH31-E7G-7ntEOlWGZcDZWuukmeHFe/view)
 
 ## The Magic Number Method
 The "magic number" is `256 - subnet mask octet value` (in the interesting octet).
@@ -26,6 +26,8 @@ Example: `/26` → subnet mask `255.255.255.192`
 | /28  | 255.255.255.240   | 16         | 14  |
 | /29  | 255.255.255.248   | 8          | 6   |
 | /30  | 255.255.255.252   | 4          | 2   |
+
+## Subnetting Example
 
 ![Subnetting example](images/ex.jpg)
 
